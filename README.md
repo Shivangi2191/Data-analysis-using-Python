@@ -13,9 +13,11 @@ This project analyzes Diwali sales data to derive actionable insights that can e
 **Tools and Libraries:**
 
 Jupyter Notebook for interactive development and visualization.
+
 Python Libraries:
 Pandas: Data manipulation and analysis.
 NumPy: Numerical computations.
+
 Matplotlib & Seaborn: Data visualization.
 
 **Outcomes:**
